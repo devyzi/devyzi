@@ -8,6 +8,8 @@ composer create-project devyzi/devyzi pasta-do-projeto
 ```
 altere o 'pasta-do-projeto' para o nome do seu novo projeto.
 
+Caso você ainda não tenha o composer instalado [clique aqui](https://getcomposer.org/doc/00-intro.md) e aprenda a instala-lo.
+
 ## Routes
 Para criar rotas, vá até o arquivo localizado em 'App/Routes' e faça sua rota no seguinte formato:
 ```
