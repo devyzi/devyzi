@@ -1,6 +1,12 @@
 # Devyzi-Framework
 Framework PHP sem fins lucrativos.
 
+## Instalação
+Para utilizar o Devyzi Framework execute o seguinte comando no composer:
+```
+composer create-project devyzi/devyzi pasta-do-projeto
+```
+altere o 'pasta-do-projeto' para o nome do seu novo projeto.
 
 ## Routes
 Para criar rotas, vá até o arquivo localizado em 'App/Routes' e faça sua rota no seguinte formato:
