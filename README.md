@@ -22,7 +22,7 @@ Para criar um controller, você deve extende-lo de Action, segue o exemplo:
 namespace App\Controllers;
 
 
-use DEVYZI\Controller\Action;
+use Yzi\Controller\Action;
 
 class HomeController extends Action
 {
@@ -40,7 +40,7 @@ Para criar um model, você deve extende-lo de Table, posteriormente declare uma 
 namespace App\Models;
 
 
-use DEVYZI\Model\Table;
+use Yzi\Model\Table;
 
 class Client extends Table
 {
