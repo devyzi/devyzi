@@ -1,4 +1,4 @@
-# Devyzi-Framework
+# Devyzi-Framework [DEPRECATED]
 Framework PHP sem fins lucrativos.
 
 ## Instalação
